@@ -9,9 +9,7 @@ ___
 print('Hello World')
 ```
 
-Can you please past in chat
-From Suchit to Everyone:  10:07 PM
-# My Repo for latest projects at INSAID
+## Repo for  projects at INSAID
 
 ### Contents of this folder are as below -
 
