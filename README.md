@@ -13,8 +13,10 @@ Can you please past in chat
 From Suchit to Everyone:  10:07 PM
 # My Repo for latest projects at INSAID
 
-## Here is the list of all projects
+### Contents of this folder are as below -
 
 - ML Term1 Project
 https://github.com/PriyankaGPawar/MachineLearningWith_Python/tree/master/ML_Term1_Project
 
+- Insaid Classroom Notebooks
+https://github.com/PriyankaGPawar/MachineLearningWith_Python/tree/master/Class_Notebooks
