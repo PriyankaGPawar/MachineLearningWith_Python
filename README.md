@@ -11,6 +11,9 @@ https://github.com/PriyankaGPawar/MachineLearningWith_Python/tree/master/ML_Term
 2. Insaid Classroom Notebooks
 https://github.com/PriyankaGPawar/MachineLearningWith_Python/tree/master/Class_Notebooks
 
+3. Class notebooks with my experiments
+https://github.com/PriyankaGPawar/MachineLearningWith_Python/tree/master/Modified_Class_Notebooks
+
 Notebooks for below alogs-
 - KNN
 - K Means Clustering
