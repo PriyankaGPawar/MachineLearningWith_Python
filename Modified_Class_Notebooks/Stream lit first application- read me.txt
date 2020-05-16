@@ -1,0 +1,12 @@
+1. open anaconda prompt
+2. run below command
+
+pip install streamlit
+
+- this takes a while as it installs all the related softwares
+3. make a folder in some place and kee the 'dataset' file and 
+program.py file
+Folder path -- C:\Users\DELL\Insaid Projects\Streamlit
+
+4. cd C:\Users\DELL\Insaid Projects\Streamlit
+5. This opens http://localhost:8501/
